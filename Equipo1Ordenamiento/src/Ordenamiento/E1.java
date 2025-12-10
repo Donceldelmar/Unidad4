@@ -26,7 +26,7 @@ public static void main(String[] args) {
         }
         System.out.println("\nPresione enter para salir");
         
-        System.out.println("\nElaborado por Gaona Alcantar Diego Angel");
+        System.out.println("\nElaborado por Gaona Alcantar Juan Isidro");
         
         tecla=teclado.nextLine();
         

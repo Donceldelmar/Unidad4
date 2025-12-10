@@ -40,7 +40,7 @@ public class E7 {
             System.out.println("Elemento NO encontrado");
         }
 
-        System.out.println("\nCÓDIGO realizado por: GAONA ALCANTAR DIEGO ANGEL");
+        System.out.println("\nCÓDIGO realizado por: GAONA ALCANTAR JUAN ISIDRO");
 
         System.out.println("\nPresiona ENTER para salir...");
         

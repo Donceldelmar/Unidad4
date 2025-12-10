@@ -12,7 +12,7 @@ public class E4 {
 
         do {
             System.out.println("\n================ MENU SHELL SORT ===================");
-            System.out.println("\n===== Elaborado por Gaona Alcantar Diego Angel =====");
+            System.out.println("\n===== Elaborado por Gaona Alcantar Juan Isidro =====");
             System.out.println("\n1. Capturar datos manualmente");
             System.out.println("2. Generar datos aleatorios");
             System.out.println("3. Ordenar (Shell Sort)");

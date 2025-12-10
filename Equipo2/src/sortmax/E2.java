@@ -65,7 +65,7 @@ public class E2 {
         imprimirArreglo(numeros); // Imprime el arreglo ya ordenado
 
         System.out.println();
-        System.out.print("Código realizado por Gaona Alcantar Diego Angel"); // Mensaje final
+        System.out.print("Código realizado por Gaona Alcantar Juan Isidro"); // Mensaje final
         
         tecla=teclado.nextLine();
         

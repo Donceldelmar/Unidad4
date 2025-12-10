@@ -23,7 +23,7 @@ public class E1 {
         
         System.out.println("\n");
         
-        System.out.println("Programa elaborado por: Gaona Alcantar Diego Angel");
+        System.out.println("Programa elaborado por: Gaona Alcantar Juan Isidro");
         
         tecla=teclado.nextLine();
         

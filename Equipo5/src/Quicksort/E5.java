@@ -25,7 +25,7 @@ public class E5 {
 
         // --- SECCIÓN DE AUTORÍA ---
         System.out.println("\n=========================================================================");
-        System.out.println("Elaborado por: Gaona Alcantar Diego Angel");
+        System.out.println("Elaborado por: Gaona Alcantar Juan Isidro");
         System.out.println("=========================================================================");
         
         tecla = teclado.nextLine();

@@ -20,7 +20,7 @@ public class E9 {
 			try {
 				
 				miArchivo.createNewFile();
-				System.out.println(miArchivo.getName() + " ha sido creado por: Gaona Alcantar Diego Angel\n");
+				System.out.println(miArchivo.getName() + " ha sido creado por: Gaona Alcantar Juan Isidro\n");
 				
 				
 				//Captura las excepciones ante posibles errores
@@ -40,7 +40,7 @@ public class E9 {
 		System.out.println("Fecha de actualizaciòn: " + miArchivo.lastModified());
 		System.out.println("Tamaño: " + miArchivo.length()+"\n");
 		
-		System.out.println("Elaborado por Gaona Alcantar Diego Angel");
+		System.out.println("Elaborado por Gaona Alcantar Juan Isidro");
 		System.out.println("Presione enter para salir");
 		
 		scanner.nextLine();

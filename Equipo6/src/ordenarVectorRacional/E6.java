@@ -169,7 +169,7 @@ public class E6 {
             System.out.println(r);
 
         // Pausa final antes de cerrar el programa
-         System.out.println("\nCodigo realizado por Gaona Alcantar Diego Angel");
+         System.out.println("\nCodigo realizado por Gaona Alcantar Juan Isidro");
         System.out.println("\nPresiona ENTER para cerrar...");
         sc.nextLine(); // Limpia buffer del scanner
         sc.nextLine(); // Espera el ENTER final

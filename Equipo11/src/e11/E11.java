@@ -23,12 +23,15 @@ public class E11 extends JFrame{
         inputField = new JTextField(25);
         sortButton = new JButton("Ordenar");
         exitButton = new JButton("Salir");
+        JLabel label2 = new JLabel("Elaborado por: Gaona Alcantar Juan Isidro");
 
         // Se añaden los componentes a la ventana
         add(label);
+        
         add(inputField);
         add(sortButton);
         add(exitButton);
+        add(label2);
 
         // Se definen las acciones de los botones
         sortButton.addActionListener(e -> ordenar()); // Ordena al dar clic

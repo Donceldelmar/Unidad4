@@ -42,7 +42,7 @@ public class E3 {
 	        
 	        System.out.println("\n");
 	        
-	        System.out.println("Elaborado por: Gaona Alcantar Diego Angel");
+	        System.out.println("Elaborado por: Gaona Alcantar Juan Isidro");
 	        
 	        tecla = teclado.nextLine();
 	        

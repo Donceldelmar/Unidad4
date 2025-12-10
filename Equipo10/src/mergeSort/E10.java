@@ -119,7 +119,7 @@ public class E10 {
         System.out.println("\nArreglo ordenado:");
         imprimirArreglo(arreglo);
 
-        System.out.println("\nPrograma realizado por: Gaona ALcantar Diego Angel");
+        System.out.println("\nPrograma realizado por: Gaona ALcantar Juan Isidro");
         
         tecla=teclado.nextLine();
         

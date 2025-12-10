@@ -26,7 +26,7 @@ public class E8 {
     	
     	Scanner scanner = new Scanner(System.in);
         // Mostrar información del equipo
-        System.out.println("Elaborado por: Gaona Alcantar Diego Angel");
+        System.out.println("Elaborado por: Gaona Alcantar Juan Isidro");
         
         // Crear arreglo con números de ejemplo
         int[] datos = {15, 3, 8, 22, 9, 17, 4, 11};
